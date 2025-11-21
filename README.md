@@ -39,7 +39,7 @@ Before setting up the project, ensure you have:
 First, clone the repository and navigate to the project directory:
 
 bash
-git clone https://github.com/HACKTHEMM/VoiceBot_HackThem_submission.git
+git clone https://github.com/Vansh41104/SaleSpeak.git
 cd VoiceBot_HackThem_submission
 
 
